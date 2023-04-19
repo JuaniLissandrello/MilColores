@@ -1,0 +1,10 @@
+.bi{
+  color: black;
+  font-size: large;
+}
+.carousel{
+  width: 500px !important;
+}
+.carousel-item img{ width:100% !important;
+
+}
